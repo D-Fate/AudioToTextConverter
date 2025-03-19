@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+torch==2.6.0
+openai-whisper==20231106
+tkinterdnd2==0.4.3
